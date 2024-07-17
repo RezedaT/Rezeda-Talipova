@@ -8,7 +8,7 @@
 
 Знание инструментов: **IntelliJ IDEA, Postman, Docker, Java, Selenium, JUnit, Jira.**
 
-[Резюме]([CV.md](CV.md)
+[Резюме](CV.md)
 
 **Контакты:**
 
